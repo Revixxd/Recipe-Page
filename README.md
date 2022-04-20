@@ -13,6 +13,6 @@ https://revixxd.github.io/Recipe-Page/
 
 ## Screenshots
 <b>Desktop:<b> <br>
-<img src="hhttps://i.imgur.com/kbOfVNo.jpg" width="80%"> <br>
+<img src="https://i.imgur.com/ZVTVmMY.jpg" width="80%"> <br>
 <b>Smaller Screens/mobile/tablets:<b> <br>
-<img src="https://i.imgur.com/AWg8iSH.jpg" width="60%"> <br>
+<img src="https://i.imgur.com/ZJ8nC1D.jpg" width="60%"> <br>
