@@ -87,6 +87,7 @@ main h3 {
 }
 
 main label {
+    margin-top: 2px;
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
@@ -95,6 +96,7 @@ main label {
 }
 
 main input {
+margin-right: 10px;
   width: 25px;
   height: 25px;
   accent-color: orange;
@@ -148,6 +150,10 @@ main input {
 .gridElement__ingredients--element {
   display: flex;
   margin: 5px;
+}
+
+.gridElement__recipe__element--labelAndText{
+    display: flex;
 }
 
 .gridElement__ingredients__element--bottomTextDiv h4 {
