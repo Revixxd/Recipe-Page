@@ -2,7 +2,6 @@
 
 
 Web page based on [devchallenges.io](https://devchallenges.io) challenge. 
-Responsive page using grid.
 
 [Figma project](https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht)
 
